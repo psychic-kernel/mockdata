@@ -1,27 +1,23 @@
 [
 	{
-		"name": "Spagetti",
-		"description": "You never heard of Spagetti?",
-		"price": "$19.00"
+		"id": 1,
+		"cover_image": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+		"record_title": "Thriller",
+		"alias": "Michael Jackson",
+		"price": "9.99"
 	},
 	{
-		"name": "Lasagna",
-		"description": "Nice and Hot.",
-		"price": "$15.00"
+		"id": 2,
+		"cover_image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
+		"record_title": "Dark Side Of The Moon",
+		"alias": "Pink Floyd",
+		"price": "24.99"
 	},
 	{
-		"name": "Chicken Pamadoro",
-		"description": "Chicken with Pamadoro.",
-		"price": "$17.00"
+		"id": 3,
+		"cover_image": "https://upload.wikimedia.org/wikipedia/en/2/26/Led_Zeppelin_-_Led_Zeppelin_IV.jpg",
+		"record_title": "Led Zeppelin IV",
+		"alias": "Led Zeppelin",
+		"price": "39.99"
 	},
-	{
-		"name": "Stuffed Ricotta",
-		"description": "Cheese filled Ricotta.",
-		"price": "$15.00"
-	},
-	{
-		"name": "Hamburger",
-		"description": "Best in town.",
-		"price": "$14.00"
-	}
 ]
